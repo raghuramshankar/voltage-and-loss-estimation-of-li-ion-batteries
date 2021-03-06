@@ -1,6 +1,0 @@
-1. fix r0, remove r0 from x_0
-2. add r0 to opt function call
-3. remove r0 = rc_param(1);
-4. 
-r(k) = rc_param(2*k-1)
-c(k) = rc_param(2*k)
