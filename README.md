@@ -11,23 +11,15 @@ The contribution of this work is to quantify the battery RC link model accuracy 
 # RC Parameters
 
 R0:
-![r0](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/c1.jpg)
+![r0](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/r0.jpg)
 
-R1:
-![r1](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/r1.jpg)
+R1 & R2:
+![r1](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/r1.jpg) ![r2](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/r2.jpg)
 
-R2:
-![r2](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/r2.jpg)
-
-C1:
-![c1](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/c1.jpg)
-
-C2:
-![c2](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/c2.jpg)
+C1 & C2:
+![c1](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/c1.jpg) ![c2](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/c2.jpg)
 
 # Loss Profiles
 
 WLTC:
-![volt-1](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/volt-1.jpg)
-
-![volt-2](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/volt-2.jpg)
+![volt-1](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/volt-1.jpg) ![volt-2](https://github.com/raghuramshankar/voltage-and-loss-estimation-for-li-ion-batteries/blob/main/images/volt-2.jpg)
