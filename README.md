@@ -1,7 +1,7 @@
 # Voltage and loss estimation for Li-ion batteries during drive cycles with various parameter identification methods
 Repository for my project as part of the course EEK150 "Electric Power Engineering Design Project" at Chalmers.
 
-A research paper was drafted and is now provisionally accepted at [EPE 2021](http://www.epe2021.com/)
+A research paper was drafted and is now provisionally accepted at [EPE 2021](http://www.epe2021.com/).
 
 # Overview
 There exist two fundamentally different kinds of battery cell models.  One is based on the underlying physics of the operation of the Li-ion cell and capturing the cell dynamics (physics based modelling). Another method approximates the behaviour of the cell’s voltage in response to different input currents(equivalent circuit modelling). Although not as accurate, the equivalent circuit modelling is preferred for applications in battery management systems (BMSs) due to its largely reduced computational complexity compared to the physics based models, which contains much more degrees of freedom. The method to find the RC link parameters for Li-ion batteries from time domain data such as a pulse discharge test. 
